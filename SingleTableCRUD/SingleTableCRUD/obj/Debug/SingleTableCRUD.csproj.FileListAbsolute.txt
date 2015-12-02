@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\SingleTableCRUD\SingleTableCRUD\bin\Debug\SingleTableCRUD.dll
+C:\Users\Administrator\Desktop\SingleTableCRUD\SingleTableCRUD\bin\Debug\SingleTableCRUD.pdb
+C:\Users\Administrator\Desktop\SingleTableCRUD\SingleTableCRUD\obj\Debug\SingleTableCRUD.dll
+C:\Users\Administrator\Desktop\SingleTableCRUD\SingleTableCRUD\obj\Debug\SingleTableCRUD.pdb
