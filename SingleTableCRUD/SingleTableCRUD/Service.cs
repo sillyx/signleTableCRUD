@@ -30,8 +30,9 @@ namespace SingleTableCRUD
             return SqlDBHelper.ExecuteSql(sBulider.ToString()) > 0;
         }
 
-        public bool Delete(string tableName, string idList)
+        public bool Delete<T>(string idList) where T : new()
         {
+            var tableName = new T().GetType().Name;
             var ids = new StringBuilder();
             foreach (var id in idList.Split(','))
             {
